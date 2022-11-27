@@ -2,7 +2,7 @@
 
 > A simple landing page build with HTML and CSS using Flex.
 
-![screenshot](./app_screenshot.jpg)
+![screenshot](./app_screenshot.png)
 
 ## Built With
 
