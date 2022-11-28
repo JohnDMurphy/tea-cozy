@@ -105,7 +105,7 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   width: 1200px;
-  margin: 20px auto;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -128,4 +128,18 @@ body {
   justify-content: space-around;
   color: seashell;
   opacity: 1;
+}
+
+.contact {
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin: 8px auto;
+}
+
+.copy {
+  text-align: left;
+  margin: 20px;
 }
